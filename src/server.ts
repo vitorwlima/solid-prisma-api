@@ -1,1 +1,2 @@
-const teste = 1  
+const teste = 1
+console.log(teste)
